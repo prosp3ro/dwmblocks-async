@@ -9,7 +9,7 @@ Block blocks[] = {
     {"sb-network",   5,    4 },
     {"sb-volume",    0,    10},
     {"sb-bluetooth", 5,    3 },
-    {"sb-battery",   5,    9 },
+    {"sb-battery",   120,    9 },
     {"sb-clock",     1,    10},
 };
 
