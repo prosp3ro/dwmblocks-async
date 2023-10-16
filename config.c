@@ -9,7 +9,7 @@ Block blocks[] = {
     {"sb-network", 5,    4 },
     {"sb-volume",  5,    10},
     {"sb-bat",     120,  9 },
-    {"sb-clock",   1,    10},
+    {"sb-clock",   60,   10},
 };
 
 const unsigned short blockCount = LEN(blocks);
